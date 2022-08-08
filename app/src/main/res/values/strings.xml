@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Appdesigns</string>
+    <string name="title_activity_signup_page">signup_page</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="hello">Hello,</string>
+    <string name="signup">SignUp!</string>
+    <string name="sign_up_with_google">Sign Up with Google</string>
+    <string name="sign_up_with_facebook">Sign Up with Facebook</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="it_is_easier_to_sign_up_now">It is easier to sign up now</string>
+    <string name="i_ll_use_email_or_phone">I\'ll use email or phone</string>
+    <string name="already_have_a_account_login">Already have a account?Login</string>
+    <string name="sign_up_using_facebook">Sign Up Using Facebook</string>
+    <string name="sign_up_using_google">Sign Up Using Google</string>
+    <string name="todo">TODO</string>
+    <string name="sign_in">Sign In!</string>
+    <string name="enter_your_user_name">Enter Your User Name</string>
+    <string name="enter_your_password">Enter Your Password</string>
+</resources>
